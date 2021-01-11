@@ -1,0 +1,32 @@
+{
+  "name": "worpdress-headless",
+  "version": "1.0.0",
+  "description": "Worpdress Headless avec Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gridsome develop",
+    "build": "gridsome build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziopod/wordpress-headless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziopod/wordpress-headless/issues"
+  },
+  "homepage": "https://github.com/ziopod/wordpress-headless#readme",
+  "dependencies": {
+    "@gridsome/source-wordpress": "^0.5.3",
+    "@noxify/gridsome-plugin-remote-image": "^1.3.0",
+    "cssnano": "^4.1.10",
+    "gridsome": "^0.7.23",
+    "gridsome-source-wordpress": "^0.4.13",
+    "postcss": "^8.2.4",
+    "postcss-cli": "^8.3.1",
+    "postcss-font-magician": "^3.0.0",
+    "postcss-preset-env": "^6.7.0"
+  }
+}

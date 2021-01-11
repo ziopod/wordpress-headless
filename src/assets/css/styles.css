@@ -1,0 +1,16 @@
+/*! chota.css v0.8.0 | MIT License | github.com/jenil/chota */
+@import "chota/_base.css";
+@import "chota/_grid.css";
+@import "chota/_form.css";
+
+@import "chota/_nav.css";
+@import "chota/_card.css";
+@import "chota/_tab.css";
+@import "chota/_tag.css";
+@import "chota/_dropdown.css";
+
+@import "chota/_util.css";
+
+:root {
+  --font-family-sans: "PT Sans", sans-serif;
+}
