@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <pre>src/layouts/Default.vue</pre>
     <slot/>
   </div>
 </template>
