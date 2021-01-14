@@ -5,8 +5,8 @@ module.exports = {
       // use: 'gridsome-source-wordpress',
       use: '@gridsome/source-wordpress',
       options: {
-        // baseUrl: 'http://guidoline.com',
-        baseUrl: 'http://wordpress.loc',
+        baseUrl: 'http://guidoline.com',
+        // baseUrl: 'http://wordpress.loc',
         // apiBase: 'wp-json/wp/v2'
       }
     },
