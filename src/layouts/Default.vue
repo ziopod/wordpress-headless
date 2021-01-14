@@ -1,8 +1,17 @@
 <template>
   <div class="container">
+    <Header/>
     <slot/>
   </div>
 </template>
+<script>
+import Header from '@/src/components/Header.vue'
+export default {
+  components: {
+    Header
+  }
+}
+</script>
 <style>
 /* 
  * Les style complémentaire peuvent être ajoutés
