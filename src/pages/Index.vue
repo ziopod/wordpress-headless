@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h2>Stickies</h2>
+    <h2>Dernières publications</h2>
     <article
       v-for="({ node: post }) in $page.allWordPressPost.edges"
       :key="post.id"
@@ -25,11 +25,7 @@
  */
 <page-query>
 query {
-  allWordPressPost (
-    filter: {
-      sticky: { eq: true}
-    }
-  ) {
+  allWordPressPost (limit: 3) {
     edges {
       node {
         id
