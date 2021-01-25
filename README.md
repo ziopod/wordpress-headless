@@ -648,3 +648,5 @@ Spécifier la prise ne charge par Webpack via le fichier de configuration de Gri
 
 ## Mise en production
 Pour la mise en production, vous pouvez suivre la partie déploiement sur Vercel de ce cours : https://github.com/ziopod/debuter-avec-gridsome#h%C3%A9bergemement-sur-vercel, ou encore en suivant la documentation sur [le déploiement de Gridsome](https://gridsome.org/docs/deploy-to-vercel/).
+
+Voici par exemple le résultat du déploiement de cet exercice : https://wordpress-headless-git-main.ziopod.vercel.app/
