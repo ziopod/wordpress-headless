@@ -10,7 +10,7 @@ Grdisome ajoute :
  - un design pattern (manière d'agencer les fichiers d'un projet) ;
  - une interface de données GraphQL
  - des fonctionnalités de rendu SSR (avec Webpack)
- - quelques modules Vue.js (gestio des route, préchargement, etc.)
+ - quelques modules Vue.js (gestion des route, préchargement, etc.)
 
 ## Installation
 
@@ -645,3 +645,6 @@ Spécifier la prise ne charge par Webpack via le fichier de configuration de Gri
     }
   }
 ~~~
+
+## Mise en production
+Pour la mise en production, vous pouvez suivre la partie déploiement sur Vercel de ce cours : https://github.com/ziopod/debuter-avec-gridsome#h%C3%A9bergemement-sur-vercel, ou encore en suivant la documentation sur [le déploiement de Gridsome](https://gridsome.org/docs/deploy-to-vercel/).
