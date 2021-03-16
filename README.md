@@ -4,7 +4,7 @@ Usage de l'API Wordpress avec le framework Vue.js Gridsome.
 
 Vue.js est un framework de développement basé sur Javascript ses fonctionnalités sont volontairement limités, ce qui permet d'ajouter des fonctionalités sur mesure en fonction du projet que l'on veut mettre ne place. 
 
-Gridsome vien compléter les fonctionnaliés de Vue.js pour des projets de sites et d'applications Web basé sur la philosophie de la JamStack.
+Gridsome viens compléter les fonctionnaliés de Vue.js pour des projets de sites et d'applications Web basé sur la philosophie de la JamStack.
 
 Grdisome ajoute :
  - un design pattern (manière d'agencer les fichiers d'un projet) ;
